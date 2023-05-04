@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="reset">RESET</string>
+    <string name="split">SPLIT</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+</resources>
